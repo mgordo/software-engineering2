@@ -18,7 +18,8 @@ The 3D visualization is interactive: the end user can click on trains to stop th
 # What is this for?
 When we want to study a fraction of reality we abstract and create a mathematical model, in order to understand its behaviour and properties. For example, we use Petri Nets to model chemical reactions and distributed systems.
 However, when we abstract we lose grip of the reality we were modelling, and increasing complexity and layers of abstraction make it hard to return to the reality that originated the model.
-That is the ultimate goal of this project: a mathematical model abstracts from reality to obtain a system we can work with, understand, and make predictions. With this tool, the end user can understand and work with the model with the 3D visualization and therefore he/she can see how that translates back into reality.
+
+That is the ultimate goal of this project: a mathematical model abstracts from reality to obtain a system we can work with, understand, and make predictions, but with this tool, the end user can understand and work with the model through the 3D visualization and therefore he/she can see how that translates back into reality.
 
 # How does this work?
 The project is released as a set of plugins for Eclipse. In order to run it you can follow the Handbook document
