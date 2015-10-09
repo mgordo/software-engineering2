@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated Config -->
+      <package
+            uri="http://config/1.0"
+            class="config.ConfigPackage"
+            genModel="model/Config.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.extension_parser">
+      <!-- @generated Config -->
+      <parser
+            type="config"
+            class="config.util.ConfigResourceFactoryImpl"/>
+   </extension>
+
+</plugin>

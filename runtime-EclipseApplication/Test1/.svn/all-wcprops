@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/se2/svn/e13-groupC/!svn/ver/525/software/runtime/trunk/Test1
+END
+geoTest.geometry_diagram
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/se2/svn/e13-groupC/!svn/ver/523/software/runtime/trunk/Test1/geoTest.geometry_diagram
+END
+geoTest.pnml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/se2/svn/e13-groupC/!svn/ver/525/software/runtime/trunk/Test1/geoTest.pnml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/se2/svn/e13-groupC/!svn/ver/483/software/runtime/trunk/Test1/.project
+END
+geoTest.geometry
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/se2/svn/e13-groupC/!svn/ver/523/software/runtime/trunk/Test1/geoTest.geometry
+END
+geoTest.config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/se2/svn/e13-groupC/!svn/ver/483/software/runtime/trunk/Test1/geoTest.config
+END

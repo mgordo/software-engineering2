@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Slick-util
+Bundle-SymbolicName: slick-util
+Bundle-Version: 2.9.0
+Bundle-ClassPath: .,
+ slick-util.jar
+Export-Package: org.newdawn.slick,
+ org.newdawn.slick.loading,
+ org.newdawn.slick.openal,
+ org.newdawn.slick.opengl,
+ org.newdawn.slick.opengl.renderer,
+ org.newdawn.slick.tests,
+ org.newdawn.slick.util
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.lwjgl;bundle-version="2.8.5"

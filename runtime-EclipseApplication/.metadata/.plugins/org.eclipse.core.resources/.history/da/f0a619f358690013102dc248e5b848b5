@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometry:Geometry xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0">
+  <lines texture="track1" ID="l1" Source="p1" Target="p2">
+    <lineDim X="-0.8" Y="9.1"/>
+  </lines>
+  <lines texture="track1" ID="l2" Source="p2" Target="p3">
+    <lineDim X="5.0" Y="13.7"/>
+    <lineDim X="10.0" Y="14.5"/>
+  </lines>
+  <lines texture="track1" ID="l3" Source="p3" Target="p4">
+    <lineDim X="18.5" Y="14.5"/>
+    <lineDim X="21.5" Y="11.0"/>
+    <lineDim X="24.5" Y="8.5"/>
+  </lines>
+  <lines texture="track1" ID="l4" Source="p4" Target="p1">
+    <lineDim X="20.8" Y="0.3"/>
+    <lineDim X="7.3" Y="0.3"/>
+  </lines>
+  <lines texture="track1" ID="l5" Source="p3" Target="p4">
+    <lineDim X="21.3" Y="18.8"/>
+    <lineDim X="31.3" Y="12.3"/>
+    <lineDim X="31.3" Y="7.3"/>
+    <lineDim X="46.8" Y="2.3"/>
+  </lines>
+  <points ID="p1" x="1.0" y="1.5" next="l4" previous="l1"/>
+  <points ID="p2" x="2.5" y="12.5" next="l1" previous="l2"/>
+  <points ID="p3" x="15.5" y="17.0" next="l2" previous="l3 l5"/>
+  <points ID="p4" x="22.0" y="1.0" next="l3 l5" previous="l4"/>
+  <points ID="tr1" x="0.5" y="17.5"/>
+  <points ID="s1" x="17.5" y="21.5"/>
+</geometry:Geometry>

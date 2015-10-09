@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences
+END
+DiagramGeneralPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramGeneralPreferencePage.java
+END
+DiagramConnectionsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramConnectionsPreferencePage.java
+END
+DiagramRulersAndGridPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramRulersAndGridPreferencePage.java
+END
+DiagramPreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramPreferenceInitializer.java
+END
+DiagramPrintingPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramPrintingPreferencePage.java
+END
+DiagramAppearancePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/preferences/DiagramAppearancePreferencePage.java
+END

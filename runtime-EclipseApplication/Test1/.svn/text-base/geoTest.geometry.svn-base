@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometry:Geometry xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0">
+  <lines texture="track1" ID="l1" Source="po1" Target="po2"/>
+  <lines texture="track1" ID="l2" Source="po2" Target="po3"/>
+  <lines texture="track1" ID="l3" Source="po3" Target="po4"/>
+  <lines texture="track2" ID="l4" Source="po4" Target="po1"/>
+  <points ID="po1" next="l4" previous="l1"/>
+  <points ID="po2" y="15.0" next="l1" previous="l2"/>
+  <points ID="po3" x="20.0" y="14.5" next="l2" previous="l3"/>
+  <points ID="po4" x="15.0" y="6.0" next="l3" previous="l4"/>
+  <points ID="tr1" x="4.5" y="9.5"/>
+</geometry:Geometry>

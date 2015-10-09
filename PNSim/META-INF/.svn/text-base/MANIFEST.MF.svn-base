@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PNSim
+Bundle-SymbolicName: PNSim
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.pnml.tools.epnk;bundle-version="1.0.1",
+ ProtocolInterfaces;bundle-version="1.0.0",
+ PNVis;bundle-version="0.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Export-Package: pnsim

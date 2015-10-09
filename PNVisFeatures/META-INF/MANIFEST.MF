@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PNVisFeatures
+Bundle-SymbolicName: PNVisFeatures;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.pnml.tools.epnk.diagram,
+ org.eclipse.emf.ecore,
+ PNVis

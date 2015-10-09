@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LoadTextures
+Bundle-SymbolicName: LoadTextures
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.lwjgl;bundle-version="2.8.5"
+Export-Package: loadpackage

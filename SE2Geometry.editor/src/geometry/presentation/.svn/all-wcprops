@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/se2/svn/e13-groupC/!svn/ver/598/software/project/trunk/SE2Geometry.editor/src/geometry/presentation
+END
+GeometryActionBarContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/src/geometry/presentation/GeometryActionBarContributor.java
+END
+GeometryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/src/geometry/presentation/GeometryEditor.java
+END
+PositionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/se2/svn/e13-groupC/!svn/ver/598/software/project/trunk/SE2Geometry.editor/src/geometry/presentation/PositionListener.java
+END
+GeometryEditorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/src/geometry/presentation/GeometryEditorPlugin.java
+END
+GeometryModelWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.editor/src/geometry/presentation/GeometryModelWizard.java
+END

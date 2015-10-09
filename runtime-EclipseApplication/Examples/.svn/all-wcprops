@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/se2/svn/e13-groupC/!svn/ver/263/software/test/trunk/Data%20for%20the%20PNSimulator%20test/trunk/Examples
+END
+MyConf.config
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/se2/svn/e13-groupC/!svn/ver/263/software/test/trunk/Data%20for%20the%20PNSimulator%20test/trunk/Examples/MyConf.config
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/se2/svn/e13-groupC/!svn/ver/263/software/test/trunk/Data%20for%20the%20PNSimulator%20test/trunk/Examples/.project
+END
+MyGeo.geometrymodel
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/se2/svn/e13-groupC/!svn/ver/263/software/test/trunk/Data%20for%20the%20PNSimulator%20test/trunk/Examples/MyGeo.geometrymodel
+END
+My.pnml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/se2/svn/e13-groupC/!svn/ver/263/software/test/trunk/Data%20for%20the%20PNSimulator%20test/trunk/Examples/My.pnml
+END

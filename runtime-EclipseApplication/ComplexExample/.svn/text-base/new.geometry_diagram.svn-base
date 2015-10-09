@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Vlo2kFX4EeOiMeGQT1He0Q" type="Geometry" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_WwbOsFX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WwbOsVX4EeOiMeGQT1He0Q" x="20" y="-10"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_XPRt4FX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XPRt4VX4EeOiMeGQT1He0Q" x="-3" y="19" width="21" height="30"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_X0zc0FX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X0zc0VX4EeOiMeGQT1He0Q" x="26" y="39"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_YxThUFX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YxThUVX4EeOiMeGQT1He0Q" x="55" y="-10"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ZETV0FX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p5"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZETV0VX4EeOiMeGQT1He0Q" x="60" y="30"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ZVKcUFX4EeOiMeGQT1He0Q" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="new.geometry#p6"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVKcUVX4EeOiMeGQT1He0Q" x="75" y="10"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Vlo2kVX4EeOiMeGQT1He0Q"/>
+  <element xmi:type="geometry:Geometry" href="new.geometry#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_bCzC0FX4EeOiMeGQT1He0Q" type="4001" source="_X0zc0FX4EeOiMeGQT1He0Q" target="_WwbOsFX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_bCzC0VX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bCzC0lX4EeOiMeGQT1He0Q" points="[-20, -9, 50, 27]$[-75, -16, -5, 20]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_bXwmMFX4EeOiMeGQT1He0Q" type="4001" source="_WwbOsFX4EeOiMeGQT1He0Q" target="_XPRt4FX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_bXwmMVX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g2"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bXwmMlX4EeOiMeGQT1He0Q" points="[3, 20, 0, -23]$[0, 37, -3, -6]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bXybYFX4EeOiMeGQT1He0Q" id="(0.35,0.15)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_bry8gFX4EeOiMeGQT1He0Q" type="4001" source="_XPRt4FX4EeOiMeGQT1He0Q" target="_X0zc0FX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_bry8gVX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g3"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bry8glX4EeOiMeGQT1He0Q" points="[18, -20, -32, 35]$[31, -35, -19, 20]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_cVc9gFX4EeOiMeGQT1He0Q" type="4001" source="_ZETV0FX4EeOiMeGQT1He0Q" target="_ZVKcUFX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_cVc9gVX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g5"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cVc9glX4EeOiMeGQT1He0Q" points="[20, 17, -47, -35]$[47, 49, -20, -3]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_croB0FX4EeOiMeGQT1He0Q" type="4001" source="_ZVKcUFX4EeOiMeGQT1He0Q" target="_YxThUFX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_croB0VX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g6"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_croB0lX4EeOiMeGQT1He0Q" points="[-20, 5, 59, -15]$[-77, 40, 2, 20]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_dAmMQFX4EeOiMeGQT1He0Q" type="4001" source="_YxThUFX4EeOiMeGQT1He0Q" target="_ZETV0FX4EeOiMeGQT1He0Q">
+    <styles xmi:type="notation:FontStyle" xmi:id="_dAmMQVX4EeOiMeGQT1He0Q" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="new.geometry#g4"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dAmMQlX4EeOiMeGQT1He0Q" points="[3, -20, -9, 52]$[12, -52, 0, 20]"/>
+  </edges>
+</notation:Diagram>

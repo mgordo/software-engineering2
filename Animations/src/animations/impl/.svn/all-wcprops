@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl
+END
+AnimationsFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/AnimationsFactoryImpl.java
+END
+TriggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/TriggerImpl.java
+END
+AnimationsPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/AnimationsPackageImpl.java
+END
+AppearImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/AppearImpl.java
+END
+AnimationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/AnimationImpl.java
+END
+MoveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/MoveImpl.java
+END
+SequenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/impl/SequenceImpl.java
+END

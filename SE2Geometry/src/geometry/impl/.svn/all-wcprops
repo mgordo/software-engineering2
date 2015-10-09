@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry/src/geometry/impl
+END
+PointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry/src/geometry/impl/PointImpl.java
+END
+CoordinatesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry/src/geometry/impl/CoordinatesImpl.java
+END
+GeometryFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry/src/geometry/impl/GeometryFactoryImpl.java
+END
+GeometryPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry/src/geometry/impl/GeometryPackageImpl.java
+END
+LineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/se2/svn/e13-groupC/!svn/ver/422/software/project/trunk/SE2Geometry/src/geometry/impl/LineImpl.java
+END
+GeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry/src/geometry/impl/GeometryImpl.java
+END
+DetailImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry/src/geometry/impl/DetailImpl.java
+END

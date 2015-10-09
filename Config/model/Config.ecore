@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="config" nsURI="http://config/1.0" nsPrefix="config">
+  <eClassifiers xsi:type="ecore:EClass" name="Config">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="petri" lowerBound="1" eType="ecore:EClass ../../org.pnml.tools.epnk/model/PNMLCoreModel.ecore#//PetriNetDoc"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="geo" lowerBound="1" eType="ecore:EClass ../../SE2Geometry/model/Geometry.ecore#//Geometry"/>
+  </eClassifiers>
+</ecore:EPackage>

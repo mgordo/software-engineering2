@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/se2/svn/e13-groupC/!svn/ver/640/software/runtime/trunk/Test1Curve
+END
+bendpointTest.geometry
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/se2/svn/e13-groupC/!svn/ver/603/software/runtime/trunk/Test1Curve/bendpointTest.geometry
+END
+geoTest.pnml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/se2/svn/e13-groupC/!svn/ver/640/software/runtime/trunk/Test1Curve/geoTest.pnml
+END
+bendpointTest.geometry_diagram
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/se2/svn/e13-groupC/!svn/ver/603/software/runtime/trunk/Test1Curve/bendpointTest.geometry_diagram
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/se2/svn/e13-groupC/!svn/ver/536/software/runtime/trunk/Test1Curve/.project
+END
+geoTest.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/se2/svn/e13-groupC/!svn/ver/640/software/runtime/trunk/Test1Curve/geoTest.config
+END

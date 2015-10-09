@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations.edit/src/animations/provider
+END
+AnimationsItemProviderAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations.edit/src/animations/provider/AnimationsItemProviderAdapterFactory.java
+END
+AnimationsEditPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/Animations.edit/src/animations/provider/AnimationsEditPlugin.java
+END
+TriggerItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/Animations.edit/src/animations/provider/TriggerItemProvider.java
+END
+AppearItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations.edit/src/animations/provider/AppearItemProvider.java
+END
+AnimationItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/Animations.edit/src/animations/provider/AnimationItemProvider.java
+END
+MoveItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations.edit/src/animations/provider/MoveItemProvider.java
+END
+SequenceItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations.edit/src/animations/provider/SequenceItemProvider.java
+END

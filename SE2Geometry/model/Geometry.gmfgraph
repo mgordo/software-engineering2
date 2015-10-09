@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmfgraph:Canvas
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:gmfgraph="http://www.eclipse.org/gmf/2006/GraphicalDefinition"
+    name="geometry">
+  <figures
+      name="Default">
+    <descriptors
+        name="LineFigure">
+      <actualFigure
+          xsi:type="gmfgraph:PolylineConnection"
+          name="LineFigure"/>
+    </descriptors>
+    <descriptors
+        name="PointFigure">
+      <actualFigure
+          xsi:type="gmfgraph:Rectangle"
+          name="PointFigure">
+        <preferredSize
+            dx="15"
+            dy="15"/>
+      </actualFigure>
+    </descriptors>
+  </figures>
+  <nodes
+      name="Point"
+      figure="PointFigure"/>
+  <connections
+      name="Line"
+      figure="LineFigure"/>
+</gmfgraph:Canvas>

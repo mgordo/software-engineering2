@@ -1,0 +1,40 @@
+pluginName=Geometry Plugin
+providerName=Sample Plugin Provider, Inc
+
+editorName=Geometry Diagram Editing
+context.description=Geometry Diagram Editing
+context.name=In Geometry Diagram Editor
+newWizardName=Geometry Diagram
+newWizardDesc=Creates Geometry diagram.
+
+initDiagramActionLabel=Initialize geometry_diagram diagram file
+
+
+navigatorContentName=*.geometry_diagram diagram contents
+domainNavigatorContentName=*.geometry model contents
+update.diagram.name=Update Geometry diagram
+update.diagram.description=Perform Geometry diagram update
+
+
+# Property Sheet
+tab.appearance=Appearance
+tab.diagram=Rulers & Grid
+tab.domain=Core
+
+# Preferences
+prefpage.SE2Geometry.diagram.general=Geometry Diagram
+prefpage.SE2Geometry.diagram.appearance=Appearance
+prefpage.SE2Geometry.diagram.connections=Connections
+prefpage.SE2Geometry.diagram.printing=Printing
+prefpage.SE2Geometry.diagram.rulersAndGrid=Rulers And Grid
+
+
+# Providers
+metatype.name.Geometry_1000=Undefined
+metatype.name.Point_2001=Point
+metatype.name.Line_4001=Line
+
+# Commands and menu actions
+cmdcategory.name=Geometry Editor Commands
+cmdcategory.desc=Geometry Editor Commands
+

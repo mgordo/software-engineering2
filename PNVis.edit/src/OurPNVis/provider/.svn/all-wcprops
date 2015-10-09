@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/se2/svn/e13-groupC/!svn/ver/497/software/project/trunk/PNVis.edit/src/OurPNVis/provider
+END
+PNVisEditPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/PNVisEditPlugin.java
+END
+TokensItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/se2/svn/e13-groupC/!svn/ver/497/software/project/trunk/PNVis.edit/src/OurPNVis/provider/TokensItemProvider.java
+END
+PlaceItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/PlaceItemProvider.java
+END
+KeepAnimItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/KeepAnimItemProvider.java
+END
+TransitionItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/TransitionItemProvider.java
+END
+ArcItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/ArcItemProvider.java
+END
+FinishedItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/FinishedItemProvider.java
+END
+GeometryItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/GeometryItemProvider.java
+END
+PNVisItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/PNVisItemProvider.java
+END
+OurPNVisItemProviderAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/OurPNVisItemProviderAdapterFactory.java
+END
+ShapeItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/ShapeItemProvider.java
+END
+CanChangeItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/CanChangeItemProvider.java
+END
+identItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/414/software/project/trunk/PNVis.edit/src/OurPNVis/provider/identItemProvider.java
+END
+ActivitiesItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/PNVis.edit/src/OurPNVis/provider/ActivitiesItemProvider.java
+END

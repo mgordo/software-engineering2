@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RunCommand
+Bundle-SymbolicName: RunCommand;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.ui,
+ org.pnml.tools.epnk;bundle-version="1.0.1",
+ Engine3D;bundle-version="1.0.0",
+ ProtocolInterfaces;bundle-version="1.0.0",
+ Config;bundle-version="0.1.0",
+ org.eclipse.core.expressions;bundle-version="3.4.500",
+ org.eclipse.core.resources,
+ org.eclipse.core.runtime;bundle-version="3.9.0",
+ SE2Geometry,
+ PNVis,
+ org.eclipse.emf.common.ui,
+ org.eclipse.ui.workbench
+ 

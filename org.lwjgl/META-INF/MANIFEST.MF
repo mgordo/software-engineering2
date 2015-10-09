@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LWJGL Lightweight Java Game Library
+Bundle-SymbolicName: org.lwjgl
+Bundle-Version: 2.8.5.v20121104-2022
+Bundle-ClassPath: jinput.jar,
+ lwjgl.jar,
+ lwjgl_util.jar,
+ lwjgl_util_applet.jar
+Bundle-Vendor: lwjgl.org
+Export-Package: org.lwjgl,
+ org.lwjgl.input,
+ org.lwjgl.openal,
+ org.lwjgl.opencl,
+ org.lwjgl.opencl.api,
+ org.lwjgl.opengl,
+ org.lwjgl.opengles,
+ org.lwjgl.util,
+ org.lwjgl.util.applet,
+ org.lwjgl.util.glu,
+ org.lwjgl.util.glu.tessellation,
+ org.lwjgl.util.input,
+ org.lwjgl.util.jinput,
+ org.lwjgl.util.mapped,
+ org.lwjgl.util.vector
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Created-By: 1.6.0_14-b08 (Sun Microsystems Inc.)
+Ant-Version: Apache Ant 1.8.2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5

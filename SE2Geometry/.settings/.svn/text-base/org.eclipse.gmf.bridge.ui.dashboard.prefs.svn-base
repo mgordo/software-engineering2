@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gmf_dashboard/domainGenerationModel=platform\:/resource/SE2Geometry/model/Geometry.genmodel
+gmf_dashboard/domainModel=platform\:/resource/SE2Geometry/model/Geometry.ecore
+gmf_dashboard/generationModel=platform\:/resource/SE2Geometry/model/Geometry.gmfgen
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/SE2Geometry/model/Geometry.gmfgraph
+gmf_dashboard/mappingModel=platform\:/resource/SE2Geometry/model/Geometry.gmfmap
+gmf_dashboard/toolingDefinitionModel=platform\:/resource/SE2Geometry/model/Geometry.gmftool

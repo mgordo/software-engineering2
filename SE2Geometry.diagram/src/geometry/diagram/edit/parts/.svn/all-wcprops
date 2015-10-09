@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/parts
+END
+GeometryEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/parts/GeometryEditPart.java
+END
+PointEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/parts/PointEditPart.java
+END
+GeometryEditPartFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/parts/GeometryEditPartFactory.java
+END
+LineEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/parts/LineEditPart.java
+END

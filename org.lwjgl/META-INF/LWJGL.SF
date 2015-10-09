@@ -1,0 +1,206 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: ytmATZwtQXyT/sRilrTDIzCDTcw=
+Created-By: 1.6.0_14 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ZAF/SWY1n42kKb2qRNGNX9LZ4AI=
+
+Name: res/spaceinvaders/ship.gif
+SHA1-Digest: 3qmDD45/SPVoRy8w1QwuXpWBrWo=
+
+Name: native/windows/jinput-raw_64.dll
+SHA1-Digest: IGTK+ck67GPowL1TwqUxDJpR54I=
+
+Name: native/windows/jinput-dx8.dll
+SHA1-Digest: /AG2itjFfEcPnx9AtsI+LvCpugQ=
+
+Name: res/lwjgl_32x32.xpm
+SHA1-Digest: 8lF7gMDcVd4Xw8DArY1cGiyBw/Q=
+
+Name: lwjgl_util.jar
+SHA1-Digest: 7ZDm0RpB0AuULkrQqyiDsrZ3PQE=
+
+Name: native/windows/OpenAL64.dll
+SHA1-Digest: WpZBWPA8g7RNZse9OpxGkVhfhzE=
+
+Name: native/linux/libopenal64.so
+SHA1-Digest: ASrgQx5uNGO94ob5WuRTtCg2hjs=
+
+Name: native/linux/libopenal.so
+SHA1-Digest: 8ZVa9oqfQ07YR3hM3gEowstBIUk=
+
+Name: res/spaceinvaders/alien3.gif
+SHA1-Digest: DDEYAsh4CMPqmLmtgI6cla1352A=
+
+Name: res/lwjgl_16x16.xpm
+SHA1-Digest: hQWwGCuE1lXNaZjl5aavL82UKLY=
+
+Name: doc/README
+SHA1-Digest: CGZBZ8P3XglSO7CHeSjaKbj40O0=
+
+Name: native/linux/libjinput-linux.so
+SHA1-Digest: 0AGTQgTqTeiIWDcJuFjuRnh0fvE=
+
+Name: res/appletlogo.gif
+SHA1-Digest: sFo5csXGF4dnfTjSG0Wea92ek6A=
+
+Name: res/right.wav
+SHA1-Digest: JwMNXvp1RxiLdHwTYvxuD2x2NqY=
+
+Name: res/resources.txt
+SHA1-Digest: ZkUbEzWw3U2iTvcoIHD/0ME80Oo=
+
+Name: AppleJavaExtensions.jar
+SHA1-Digest: E4nwG35I7OJbHvQuvAcgLb95BWc=
+
+Name: native/linux/liblwjgl.so
+SHA1-Digest: 15EwdesyXypiRo+qEJhpMN5qSIc=
+
+Name: res/Footsteps.wav
+SHA1-Digest: Cnhuzek2rtziqwZOxP6/BR0pjjw=
+
+Name: native/macosx/liblwjgl.jnilib
+SHA1-Digest: bFUehYcHyL5MGg6Zq6XaxnEr9wg=
+
+Name: asm-debug-all.jar
+SHA1-Digest: mS5G+o/T/qs9CEQtWfe9D1aeATM=
+
+Name: res/left.wav
+SHA1-Digest: 1dr4YtaltbzK2S6Z+MitB7fDdGE=
+
+Name: res/spaceinvaders/pressanykey.gif
+SHA1-Digest: HtHa+mQF9ynnrmGa5Rzc06F9Nr4=
+
+Name: doc/CREDITS
+SHA1-Digest: S62vS8tYS9NZoFNvNC1gPyCbuPw=
+
+Name: res/spaceinvaders/youwin.gif
+SHA1-Digest: hVTOIh5hNp2kP5pbv7RXa91m59M=
+
+Name: res/spaceinvaders/gotyou.gif
+SHA1-Digest: jIuwrd42j1UwqUgCCwaj3GzDkpA=
+
+Name: native/windows/OpenAL32.dll
+SHA1-Digest: amCXG0fMLWVqbVG4TzuhwBjKakY=
+
+Name: native/windows/jinput-raw.dll
+SHA1-Digest: C6tVM75KQXVF39U6IJHT9qS/5gA=
+
+Name: org/lwjgl/LibraryPathUtil.class
+SHA1-Digest: ybowUGXgqjK0nl0jotrcttHu2OM=
+
+Name: doc/3rdparty/lzma_license.txt
+SHA1-Digest: m2SN/ns3gCDAvCXcogF3UEXVvN8=
+
+Name: doc/3rdparty/jogl_license.txt
+SHA1-Digest: JklpcFvEk+dVfMQol9zY7MkWExY=
+
+Name: res/spaceinvaders/hit.wav
+SHA1-Digest: 4dD1F8fqIy1X6g4CXk+b4YE4OuM=
+
+Name: native/linux/libjinput-linux64.so
+SHA1-Digest: sWNG3E1065w2X+OMPs2bjlOpWgo=
+
+Name: lwjgl_test.jar
+SHA1-Digest: l3Kh8scZodDFy40XBkVS4r8zDZk=
+
+Name: res/logo/lwjgl_logo-with_jacket.svg
+SHA1-Digest: X9e8PhtiGeLz8J5q5jUG7s3i6qo=
+
+Name: native/linux/liblwjgl64.so
+SHA1-Digest: 76ZGt7UWQFy0GqgVzZ5WmyIIoiM=
+
+Name: doc/LICENSE
+SHA1-Digest: AOcZ7HdwEb4CZ3Zlt4YsjIzZERA=
+
+Name: res/ball.png
+SHA1-Digest: 3Yl/65WeOhbtPodkctQyTXysT8c=
+
+Name: res/spaceinvaders/win.wav
+SHA1-Digest: o2L9PUR/WKlwwCq8Nm8XgiXbPTc=
+
+Name: native/windows/lwjgl64.dll
+SHA1-Digest: N2ArEvGH82YnunxPEsF+2OFVF/o=
+
+Name: org/lwjgl/OSNotSupportedException.class
+SHA1-Digest: 1qobc9xicYGb2FX4cfaV8kBxp10=
+
+Name: native/solaris/liblwjgl64.so
+SHA1-Digest: dx6ilOgJbNVf6amYcZoD/AwIEoE=
+
+Name: native/windows/jinput-dx8_64.dll
+SHA1-Digest: 0yx4uKRFN1Npu5WbbFElIx2geo8=
+
+Name: lwjgl_util_applet.jar
+SHA1-Digest: shBeAk48sD0CUqvPZ13jz/gIEHI=
+
+Name: res/ding.wav
+SHA1-Digest: 1NqMDs5+UHJpQjcpWMllohzLwD8=
+
+Name: res/spaceinvaders/alien.gif
+SHA1-Digest: mGKqyChsSJqmQKr1Hf3g1zvllV0=
+
+Name: res/spaceinvaders/shot.wav
+SHA1-Digest: 6db0Cxw3OueBSlbV7ju+nIp7DJw=
+
+Name: res/spaceinvaders/loose.wav
+SHA1-Digest: NhpHfdt+/JevZAfsJ3dHbshiHR8=
+
+Name: lzma.jar
+SHA1-Digest: DCwGjah/FWYiDXi+mZ/bTFQ3x1s=
+
+Name: lwjgl.jar
+SHA1-Digest: igm35LWr7g3jcXHgB1r6zoyoC5g=
+
+Name: res/spaceinvaders/alien2.gif
+SHA1-Digest: KR6gSOjVw3NsuVkLvRIbHxJQi7s=
+
+Name: res/spaceinvaders/shot.gif
+SHA1-Digest: eIrHYINd5ijwVVan8R8TkvoRWOQ=
+
+Name: native/macosx/openal.dylib
+SHA1-Digest: 0seN4UBPqXT5pn3riwJLeEQwakM=
+
+Name: native/solaris/libopenal64.so
+SHA1-Digest: yBBYL67g8qQgmqMLFYJeIAoBACU=
+
+Name: doc/3rdparty/openal_license.txt
+SHA1-Digest: fHyY1K2+PW7EBYuFOURrQys37P4=
+
+Name: res/logo/lwjgl_logo-with_jacket.ai
+SHA1-Digest: UctFJf3K7gwzCpaRdZdlBycttDI=
+
+Name: doc/3rdparty/jinput_license.txt
+SHA1-Digest: z70SDNZkGtoK4HQZDPlRrRSmDe8=
+
+Name: native/solaris/libopenal.so
+SHA1-Digest: nF7fpNEsXVox9lboPHlW0gBki48=
+
+Name: native/macosx/libjinput-osx.jnilib
+SHA1-Digest: YY4q5Iih99f8v1qKxN66oQWFgTM=
+
+Name: org/lwjgl/Activator.class
+SHA1-Digest: ikC7dGwmCbUapsKRQWR32yTcxpY=
+
+Name: doc/lwjgl_hidden_switches.text
+SHA1-Digest: po0MXE4ER2nJqNwIFMAvjJkE6vw=
+
+Name: res/spaceinvaders/start.wav
+SHA1-Digest: AeJ2JOrwRNnfXw80Fkvl1jXRvTE=
+
+Name: native/solaris/liblwjgl.so
+SHA1-Digest: HQBAPNpnXoEqhCVnJhsPOA1ZRpk=
+
+Name: jinput.jar
+SHA1-Digest: NS21QtFS3zzoYgbrDr3IR8hv4pY=
+
+Name: res/ball_sm.png
+SHA1-Digest: 33BNT0kfZDt6oRLu4pqCW6v0PSA=
+
+Name: res/center.wav
+SHA1-Digest: 1htsanRTJD/k85q+cffFl/O1BZM=
+
+Name: res/appletprogress.gif
+SHA1-Digest: oC1HUFbd+o0KDQtGveJreqHsQIc=
+
+Name: native/windows/lwjgl.dll
+SHA1-Digest: mV0zbs9y7sQnHJLes0PIR0erHWc=
+

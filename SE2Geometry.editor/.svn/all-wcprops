@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/se2/svn/e13-groupC/!svn/ver/598/software/project/trunk/SE2Geometry.editor
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/plugin.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/plugin.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.editor/.classpath
+END

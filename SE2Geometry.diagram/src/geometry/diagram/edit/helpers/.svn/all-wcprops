@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/helpers
+END
+LineEditHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/helpers/LineEditHelper.java
+END
+GeometryBaseEditHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/helpers/GeometryBaseEditHelper.java
+END
+GeometryEditHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/helpers/GeometryEditHelper.java
+END
+PointEditHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/helpers/PointEditHelper.java
+END

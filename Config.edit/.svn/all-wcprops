@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/se2/svn/e13-groupC/!svn/ver/443/software/project/trunk/Config.edit
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Config.edit/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Config.edit/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Config.edit/plugin.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Config.edit/plugin.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Config.edit/.classpath
+END

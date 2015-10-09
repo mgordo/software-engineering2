@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part
+END
+GeometryDiagramEditorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramEditorUtil.java
+END
+GeometryDiagramEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramEditor.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/Messages.java
+END
+GeometryNewDiagramFileWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryNewDiagramFileWizard.java
+END
+GeometryCreationWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryCreationWizardPage.java
+END
+GeometryVisualIDRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryVisualIDRegistry.java
+END
+LoadResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/LoadResourceAction.java
+END
+GeometryDiagramUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramUpdater.java
+END
+ModelElementSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/ModelElementSelectionPage.java
+END
+DeleteElementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/DeleteElementAction.java
+END
+GeometryNodeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryNodeDescriptor.java
+END
+GeometryInitDiagramFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryInitDiagramFileAction.java
+END
+GeometryMatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryMatchingStrategy.java
+END
+GeometryUriEditorInputTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryUriEditorInputTester.java
+END
+GeometryPaletteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryPaletteFactory.java
+END
+GeometryDiagramEditorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramEditorPlugin.java
+END
+GeometryDiagramUpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramUpdateCommand.java
+END
+DiagramEditorContextMenuProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/DiagramEditorContextMenuProvider.java
+END
+GeometryDiagramActionBarContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDiagramActionBarContributor.java
+END
+GeometryDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryDocumentProvider.java
+END
+GeometryCreationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryCreationWizard.java
+END
+GeometryLinkDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/part/GeometryLinkDescriptor.java
+END

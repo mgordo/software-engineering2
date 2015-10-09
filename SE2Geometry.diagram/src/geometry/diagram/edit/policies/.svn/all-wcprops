@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies
+END
+GeometryCanonicalEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/GeometryCanonicalEditPolicy.java
+END
+LineItemSemanticEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/LineItemSemanticEditPolicy.java
+END
+GeometryTextNonResizableEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/GeometryTextNonResizableEditPolicy.java
+END
+GeometryTextSelectionEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/GeometryTextSelectionEditPolicy.java
+END
+GeometryBaseItemSemanticEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/GeometryBaseItemSemanticEditPolicy.java
+END
+GeometryItemSemanticEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/GeometryItemSemanticEditPolicy.java
+END
+PointItemSemanticEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/edit/policies/PointItemSemanticEditPolicy.java
+END

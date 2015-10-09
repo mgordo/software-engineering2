@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/se2/svn/e13-groupC/!svn/ver/599/software/project/trunk/Engine3D/src/scene/objects
+END
+PlaneSceneObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/se2/svn/e13-groupC/!svn/ver/516/software/project/trunk/Engine3D/src/scene/objects/PlaneSceneObject.java
+END
+SceneObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/se2/svn/e13-groupC/!svn/ver/518/software/project/trunk/Engine3D/src/scene/objects/SceneObject.java
+END
+DefaultSceneObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/se2/svn/e13-groupC/!svn/ver/530/software/project/trunk/Engine3D/src/scene/objects/DefaultSceneObject.java
+END
+DefaultCameraObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/se2/svn/e13-groupC/!svn/ver/489/software/project/trunk/Engine3D/src/scene/objects/DefaultCameraObject.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/se2/svn/e13-groupC/!svn/ver/432/software/project/trunk/Engine3D/src/scene/objects/package-info.java
+END
+TrackedSceneObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/se2/svn/e13-groupC/!svn/ver/599/software/project/trunk/Engine3D/src/scene/objects/TrackedSceneObject.java
+END

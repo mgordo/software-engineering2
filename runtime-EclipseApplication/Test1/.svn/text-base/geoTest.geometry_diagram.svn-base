@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_7JrkkFwrEeORp7SIW2mOuA" type="Geometry" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_bQAn0FwsEeORp7SIW2mOuA" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="geoTest.geometry#po1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bQAn0VwsEeORp7SIW2mOuA"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bQAn0lwsEeORp7SIW2mOuA" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="geoTest.geometry#po2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bQAn01wsEeORp7SIW2mOuA" y="150"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bQAn1FwsEeORp7SIW2mOuA" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="geoTest.geometry#po3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bQAn1VwsEeORp7SIW2mOuA" x="200" y="145"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bQBO4FwsEeORp7SIW2mOuA" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="geoTest.geometry#po4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bQBO4VwsEeORp7SIW2mOuA" x="150" y="60"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fgMqoFwsEeORp7SIW2mOuA" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="geoTest.geometry#tr1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fgMqoVwsEeORp7SIW2mOuA" x="45" y="95"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_7JrkkVwrEeORp7SIW2mOuA"/>
+  <element xmi:type="geometry:Geometry" href="geoTest.geometry#/"/>
+</notation:Diagram>

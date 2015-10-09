@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated PNVis -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="OurPNVis.presentation.OurPNVisModelWizardID"
+            name="%_UI_OurPNVisModelWizard_label"
+            class="OurPNVis.presentation.OurPNVisModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/OurPNVisModelFile.gif">
+         <description>%_UI_OurPNVisModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated PNVis -->
+      <editor
+            id="OurPNVis.presentation.OurPNVisEditorID"
+            name="%_UI_OurPNVisEditor_label"
+            icon="icons/full/obj16/OurPNVisModelFile.gif"
+            extensions="ourpnvis"
+            class="OurPNVis.presentation.OurPNVisEditor"
+            contributorClass="OurPNVis.presentation.OurPNVisActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

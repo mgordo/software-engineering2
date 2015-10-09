@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation
+END
+AnimationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation/AnimationValidator.java
+END
+AppearValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation/AppearValidator.java
+END
+TriggerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation/TriggerValidator.java
+END
+MoveValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation/MoveValidator.java
+END
+SequenceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/se2/svn/e13-groupC/!svn/ver/418/software/project/trunk/Animations/src/animations/validation/SequenceValidator.java
+END

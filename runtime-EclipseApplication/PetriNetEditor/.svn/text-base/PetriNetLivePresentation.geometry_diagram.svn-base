@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Ax9JkGDrEeOTX-bZ75E-5g" type="Geometry" name="BezierCurve.geometry_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Bg-LsGDrEeOTX-bZ75E-5g" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="BezierCurve.geometry#g1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bg-LsWDrEeOTX-bZ75E-5g" x="206" y="230"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_CWFOwGDrEeOTX-bZ75E-5g" type="2001" fontName="Segoe UI">
+    <element xmi:type="geometry:Point" href="BezierCurve.geometry#g2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CWFOwWDrEeOTX-bZ75E-5g" x="156" y="53"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Ax9JkWDrEeOTX-bZ75E-5g"/>
+  <element xmi:type="geometry:Geometry" href="BezierCurve.geometry#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_EFNqEGDrEeOTX-bZ75E-5g" type="4001" source="_Bg-LsGDrEeOTX-bZ75E-5g" target="_CWFOwGDrEeOTX-bZ75E-5g" smoothness="Normal">
+    <styles xmi:type="notation:FontStyle" xmi:id="_EFNqEWDrEeOTX-bZ75E-5g" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="BezierCurve.geometry#l1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EFNqEmDrEeOTX-bZ75E-5g" points="[7, -7, 57, 170]$[87, -97, 137, 80]$[67, -152, 117, 25]$[-42, -175, 8, 2]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_FbzpkGDrEeOTX-bZ75E-5g" type="4001" source="_CWFOwGDrEeOTX-bZ75E-5g" target="_Bg-LsGDrEeOTX-bZ75E-5g" smoothness="Normal">
+    <styles xmi:type="notation:FontStyle" xmi:id="_FbzpkWDrEeOTX-bZ75E-5g" fontName="Segoe UI"/>
+    <element xmi:type="geometry:Line" href="BezierCurve.geometry#l2"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FbzpkmDrEeOTX-bZ75E-5g" points="[-2, 0, -57, -180]$[-98, 28, -153, -152]$[-108, 103, -163, -77]$[48, 176, -7, -4]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Fbzpk2DrEeOTX-bZ75E-5g" id="(0.13333333333333333,0.26666666666666666)"/>
+  </edges>
+</notation:Diagram>

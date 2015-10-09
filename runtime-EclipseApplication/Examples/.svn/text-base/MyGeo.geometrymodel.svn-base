@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometrymodel:Geometry xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometrymodel="http://geometrymodel/1.0">
+  <models>
+    <SMs>
+      <rectangles height="12.0" width="1.0"/>
+    </SMs>
+  </models>
+</geometrymodel:Geometry>

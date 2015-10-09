@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/se2/svn/e13-groupC/!svn/ver/599/software/project/trunk/Engine3D/src/utils
+END
+JavaClassPathLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/se2/svn/e13-groupC/!svn/ver/457/software/project/trunk/Engine3D/src/utils/JavaClassPathLoader.java
+END
+ObjLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/se2/svn/e13-groupC/!svn/ver/361/software/project/trunk/Engine3D/src/utils/ObjLoader.java
+END
+StaticItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/se2/svn/e13-groupC/!svn/ver/533/software/project/trunk/Engine3D/src/utils/StaticItemFactory.java
+END
+DynamicItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/se2/svn/e13-groupC/!svn/ver/531/software/project/trunk/Engine3D/src/utils/DynamicItemFactory.java
+END
+ItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/se2/svn/e13-groupC/!svn/ver/531/software/project/trunk/Engine3D/src/utils/ItemFactory.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/se2/svn/e13-groupC/!svn/ver/599/software/project/trunk/Engine3D/src/utils/BoundingBox.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/261/software/project/trunk/Engine3D/src/utils/package-info.java
+END
+GLVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/se2/svn/e13-groupC/!svn/ver/338/software/project/trunk/Engine3D/src/utils/GLVersion.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator
+END
+GeometryNavigatorLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorLabelProvider.java
+END
+GeometryNavigatorSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorSorter.java
+END
+GeometryNavigatorLinkHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorLinkHelper.java
+END
+GeometryNavigatorActionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorActionProvider.java
+END
+GeometryNavigatorGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorGroup.java
+END
+GeometryDomainNavigatorContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryDomainNavigatorContentProvider.java
+END
+GeometryNavigatorItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorItem.java
+END
+GeometryAbstractNavigatorItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryAbstractNavigatorItem.java
+END
+GeometryNavigatorContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryNavigatorContentProvider.java
+END
+GeometryDomainNavigatorLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryDomainNavigatorLabelProvider.java
+END
+GeometryDomainNavigatorItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.diagram/src/geometry/diagram/navigator/GeometryDomainNavigatorItem.java
+END

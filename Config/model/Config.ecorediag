@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_4_sYoFUtEeOT-LHewFdfRQ" type="EcoreTools" name="Config.ecorediag" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_4_sYolUtEeOT-LHewFdfRQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_4_sYpVUtEeOT-LHewFdfRQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_4_sYplUtEeOT-LHewFdfRQ" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_4_sYp1UtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4_sYqFUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4_sYqVUtEeOT-LHewFdfRQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_4_sYqlUtEeOT-LHewFdfRQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_4_sYq1UtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4_sYrFUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4_sYrVUtEeOT-LHewFdfRQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_4_sYo1UtEeOT-LHewFdfRQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Config.ecore#//Config"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4_sYpFUtEeOT-LHewFdfRQ" x="205" y="85"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_6oIWEFUtEeOT-LHewFdfRQ" type="1001">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_6oIWHFUtEeOT-LHewFdfRQ" source="Shortcut">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6oIWHVUtEeOT-LHewFdfRQ" key="modelID" value="EcoreTools"/>
+    </eAnnotations>
+    <children xmi:type="notation:Node" xmi:id="_6oIWE1UtEeOT-LHewFdfRQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_6oIWFFUtEeOT-LHewFdfRQ" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_6oIWFVUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_6oIWFlUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_6oIWF1UtEeOT-LHewFdfRQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_6oIWGFUtEeOT-LHewFdfRQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_6oIWGVUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_6oIWGlUtEeOT-LHewFdfRQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_6oIWG1UtEeOT-LHewFdfRQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_6oIWEVUtEeOT-LHewFdfRQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="15053796" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="platform:/resource/SE2Geometry/model/Geometry.ecore#//Geometry"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6oIWElUtEeOT-LHewFdfRQ" x="65" y="150"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_4_sYoVUtEeOT-LHewFdfRQ"/>
+  <element xmi:type="ecore:EPackage" href="Config.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_7di7IFUtEeOT-LHewFdfRQ" type="3002" source="_4_sYolUtEeOT-LHewFdfRQ" target="_6oIWEFUtEeOT-LHewFdfRQ">
+    <children xmi:type="notation:Node" xmi:id="_7dsFEFUtEeOT-LHewFdfRQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7dsFEVUtEeOT-LHewFdfRQ" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_7dsFElUtEeOT-LHewFdfRQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7dsFE1UtEeOT-LHewFdfRQ" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_7di7IVUtEeOT-LHewFdfRQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7di7IlUtEeOT-LHewFdfRQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Config.ecore#//Config/geo"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7di7I1UtEeOT-LHewFdfRQ" points="[-22, 21, 98, -103]$[-122, 95, -2, -29]"/>
+  </edges>
+</notation:Diagram>

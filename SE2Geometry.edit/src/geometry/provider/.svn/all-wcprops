@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.edit/src/geometry/provider
+END
+GeometryEditPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.edit/src/geometry/provider/GeometryEditPlugin.java
+END
+CoordinatesItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.edit/src/geometry/provider/CoordinatesItemProvider.java
+END
+LineItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/se2/svn/e13-groupC/!svn/ver/421/software/project/trunk/SE2Geometry.edit/src/geometry/provider/LineItemProvider.java
+END
+GeometryItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.edit/src/geometry/provider/GeometryItemProvider.java
+END
+DetailItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.edit/src/geometry/provider/DetailItemProvider.java
+END
+PointItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/se2/svn/e13-groupC/!svn/ver/479/software/project/trunk/SE2Geometry.edit/src/geometry/provider/PointItemProvider.java
+END
+GeometryItemProviderAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/se2/svn/e13-groupC/!svn/ver/355/software/project/trunk/SE2Geometry.edit/src/geometry/provider/GeometryItemProviderAdapterFactory.java
+END

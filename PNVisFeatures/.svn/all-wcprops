@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/se2/svn/e13-groupC/!svn/ver/596/software/project/trunk/PNVisFeatures
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/se2/svn/e13-groupC/!svn/ver/526/software/project/trunk/PNVisFeatures/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/se2/svn/e13-groupC/!svn/ver/526/software/project/trunk/PNVisFeatures/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/se2/svn/e13-groupC/!svn/ver/526/software/project/trunk/PNVisFeatures/plugin.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/se2/svn/e13-groupC/!svn/ver/526/software/project/trunk/PNVisFeatures/.classpath
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/se2/svn/e13-groupC/!svn/ver/399/software/project/trunk/org.lwjgl/native/solaris
+END
+libopenal.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/se2/svn/e13-groupC/!svn/ver/399/software/project/trunk/org.lwjgl/native/solaris/libopenal.so
+END
+libopenal64.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/399/software/project/trunk/org.lwjgl/native/solaris/libopenal64.so
+END
+liblwjgl.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/399/software/project/trunk/org.lwjgl/native/solaris/liblwjgl.so
+END
+liblwjgl64.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/se2/svn/e13-groupC/!svn/ver/399/software/project/trunk/org.lwjgl/native/solaris/liblwjgl64.so
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/se2/svn/e13-groupC/!svn/ver/624/software/runtime/tags/PetriNetEditor
+END
+PetriNetLivePresentation.geometry
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/se2/svn/e13-groupC/!svn/ver/624/software/runtime/tags/PetriNetEditor/PetriNetLivePresentation.geometry
+END
+PetriNetLivePresentation.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/se2/svn/e13-groupC/!svn/ver/624/software/runtime/tags/PetriNetEditor/PetriNetLivePresentation.config
+END
+PetriNetLivePresentation.geometry_diagram
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/se2/svn/e13-groupC/!svn/ver/624/software/runtime/tags/PetriNetEditor/PetriNetLivePresentation.geometry_diagram
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/se2/svn/e13-groupC/!svn/ver/623/software/runtime/tags/PetriNetEditor/.project
+END
+PetriNetLivePresentation.pnml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/se2/svn/e13-groupC/!svn/ver/624/software/runtime/tags/PetriNetEditor/PetriNetLivePresentation.pnml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/se2/svn/e13-groupC/!svn/ver/394/software/project/trunk/org.lwjgl/native/macosx
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/se2/svn/e13-groupC/!svn/ver/394/software/project/trunk/org.lwjgl/native/macosx/libjinput-osx.jnilib
+END
+openal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/394/software/project/trunk/org.lwjgl/native/macosx/openal.dylib
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/394/software/project/trunk/org.lwjgl/native/macosx/liblwjgl.jnilib
+END

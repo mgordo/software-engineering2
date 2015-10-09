@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders
+END
+testColor330.vert
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testColor330.vert
+END
+testColor120.vert
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testColor120.vert
+END
+testColor330.frag
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testColor330.frag
+END
+testColor120.frag
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testColor120.frag
+END
+testTextured330.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testTextured330.vert
+END
+testTextured120.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testTextured120.vert
+END
+testTextured330.frag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testTextured330.frag
+END
+testTextured120.frag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/se2/svn/e13-groupC/!svn/ver/591/software/runtime/trunk/DataFolder/shaders/testTextured120.frag
+END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometry:Geometry xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:geometry="http://geometry/1.0">
+  <lines texture="track1" ID="l1" Source="g1" Target="g2">
+    <lineDim X="29.300001" Y="13.3"/>
+    <lineDim X="27.300001" Y="7.8"/>
+  </lines>
+  <lines texture="track1" ID="l2" Source="g2" Target="g1">
+    <lineDim X="5.8" Y="8.1"/>
+    <lineDim X="4.8" Y="15.6"/>
+  </lines>
+  <points ID="g1" x="20.6" y="23.0" next="l2" previous="l1"/>
+  <points ID="g2" x="15.6" y="5.3" next="l1" previous="l2"/>
+</geometry:Geometry>
