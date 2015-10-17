@@ -26,7 +26,7 @@ The project is released as a set of plugins for Eclipse. In order to run it you 
 
 # I think I got it, but this is a bit vague..
 
-Don't worry. The handbook and System Specification documents contain all the necessary info to understand and run the project. The project is obviously big and this readme is only a small introduction.
+The Handbook and System Specification documents contain all the necessary info to understand and run the project. 
 
 
 
